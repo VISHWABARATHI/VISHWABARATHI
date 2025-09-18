@@ -86,12 +86,6 @@
 
 ---
 
-## 🎓 Education
-**Bachelor of Engineering in Electronics and Instrumentation**  
-_Kongu Engineering College_ | CGPA: 8.31/10 (2020-2024)
-
----
-
 ## 🎵 Hobbies
 🏏 Cricket | 🎶 Music | 🤖 Tech Exploration
 
